@@ -35,8 +35,8 @@
 
 ### CI runner
 
-- This repo currently runs CI on GitHub-hosted runners.
-- For minutes-expensive or long-running jobs, prefer migrating to the self-hosted `[self-hosted, pv-cargo]` runner. See `pv-udpv/gh-runner-infra` for onboarding.
+- CI is not yet configured in this repository.
+- Before adding workflows or runner-specific assumptions, confirm the intended CI system and runner strategy with the maintainer.
 
 ## What to avoid
 
